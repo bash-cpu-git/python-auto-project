@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #004080;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer {
+    background-color: #002250;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #005f73;
+}
